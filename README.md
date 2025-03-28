@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Gustavo Victor from Brasil <br><br>- 🔭 I’m working as TI Developer in training<br>- 📚 I'm currently learning Javascript<br>- ⚡ In my free time I work as a musician and an actor</p>
 
 ###
 
